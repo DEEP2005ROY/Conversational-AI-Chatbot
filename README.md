@@ -51,3 +51,6 @@ You can run the chatbot in two ways:
 Run the `chatbot.py` file directly from your terminal:
 ```bash
 python chatbot.py
+
+### B. Using the Jupyter Notebook
+Open the day3.ipynb file in a Jupyter environment (e.g., JupyterLab, VS Code with the Jupyter extension) and run all the cells.
